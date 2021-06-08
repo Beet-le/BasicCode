@@ -1,6 +1,4 @@
-package Day607;
-
-import javax.swing.*;
+package Day607Window;
 
 public class StudentManagement {
     public static void main(String[] args) {

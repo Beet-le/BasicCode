@@ -1,4 +1,4 @@
-package Day607;
+package Day607Window;
 
 import javax.swing.*;
 
