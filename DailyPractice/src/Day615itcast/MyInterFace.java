@@ -5,4 +5,8 @@ public interface MyInterFace {
     public abstract void methodabs1();
     //这也是抽象方法
     abstract void methodabs2();
+    //这也是抽象方法
+   public void methodabs3();
+   //这也是抽象方法
+    void methodabs4();
 }
