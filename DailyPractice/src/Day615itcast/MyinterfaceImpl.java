@@ -18,6 +18,6 @@ public class MyinterfaceImpl implements MyInterFace{
 
     @Override
     public void methodabs4() {
-        System.out.println("这是第四个方法");
+        System.out.println("这是第四个方法 ");
     }
 }
