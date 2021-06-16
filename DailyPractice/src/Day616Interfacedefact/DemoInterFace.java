@@ -7,5 +7,6 @@ public class DemoInterFace {
         a.methodABS();
         b.methodABS();
         a.methodDefault();
+        b.methodDefault();
     }
 }
