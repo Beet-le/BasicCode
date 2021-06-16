@@ -7,8 +7,5 @@ public class MyinterfacedefaultB implements MyinterfaceDefault{
         System.out.println("实现了抽象方法BBB");
     }
 
-    @Override
-    public void methodABS2() {
 
-    }
 }
