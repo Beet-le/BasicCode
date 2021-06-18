@@ -9,7 +9,7 @@ public interface MyinterfacePrivate {
         System.out.println("默认方法2");
         methodCommon();
     }
-    public default void methodCommon(){
+    private  void methodCommon(){
         System.out.println("默认方法3");
         System.out.println("AAA");
         System.out.println("BBB");
