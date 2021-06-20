@@ -12,6 +12,11 @@ public class MyInterfaceImpl /*extends Object*/ implements MyInterfaceA,MyInterf
     }
 
     @Override
+    public void methodDefault() {
+        MyInterfaceA.super.methodDefault();
+    }
+
+    @Override
     public void methodB() {
         System.out.println("覆盖重写了B方法");
     }
